@@ -1,0 +1,6 @@
+#ifndef {TEMPLATE_NAME}
+#define {TEMPLATE_NAME}
+
+{TEMPLATE_FUNC_DECLARATION};
+
+#endif
